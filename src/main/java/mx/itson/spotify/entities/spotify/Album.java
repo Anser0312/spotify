@@ -84,7 +84,8 @@ public class Album {
     public void setGenero(String genero) {
         this.genero = genero;
     }
-    //Hola esto es una puta prueba.
+    //Hola esto es una prueba.
+    //Subido encima del octoCat
     private String nombre;
     private Artista artista;
     private Date fechaLanzamiento;
