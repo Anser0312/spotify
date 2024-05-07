@@ -84,7 +84,7 @@ public class Album {
     public void setGenero(String genero) {
         this.genero = genero;
     }
-    
+    //Hola esto es una puta prueba.
     private String nombre;
     private Artista artista;
     private Date fechaLanzamiento;
